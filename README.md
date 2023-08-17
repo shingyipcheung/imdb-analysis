@@ -18,7 +18,7 @@ The notebook emphasizes data cleaning and manipulation::
 - Extracting the year from the 'Year' column and converting it to an integer.
 - Ensuring the 'Metascore' column is of float type.
 - Removing the "min" suffix from the 'Runtime' column and converting it to an integer.
-- Using techniques like the explode function to handle list columns. This is particularly useful for columns like 'Genres' and 'Stars' that contain lists of values.
+- Using techniques like the `explode` function to handle list columns. This is particularly useful for columns like 'Genres' and 'Stars' that contain lists of values.
 
 ### 3. Visualization
 
